@@ -7,3 +7,4 @@
 - Keyboard shortcuts
 - Remove seperator bars in grouped column charts
 - Create target lines with line + bar charts
+- Selectively label bars with line + bar
